@@ -6,11 +6,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 2. For **Android**: Open `app-debug.apk` in an Android device to install and run the Calculator app.
 3. For **Screen Recording**: Open `Emulator-recording.mov` in a video player to play recording of the Calculator app running on an emulator.
 
-# Demo
-
->**Note**: Open `Simulator-recording.mov` to see the app running on simulator.
-
-
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
